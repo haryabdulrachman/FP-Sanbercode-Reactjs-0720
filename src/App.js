@@ -3,7 +3,8 @@ import React from 'react';
 function App() {
   return (
     <div>
-      Hello
+      Hello..
+      Otomatis langsung ke Netlify.. Coba
     </div>
   );
 }
